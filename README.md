@@ -1,7 +1,7 @@
 # Android-Trivia-Fragment
 Codelab de Android Trivia Fragment
 
-**AndroidTriviaFragment - solution code**
+**Solution code**
 =====================================
 
 This app is the solution code for Android Kotlin Fundamentals codelab 3.1:
