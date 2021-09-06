@@ -29,4 +29,4 @@ tries to eliminate bugs caused by configuration changes.
  ![alt tag](https://github.com/juancr5/Android-Trivia-Fragment/blob/main/images/03%20Android%20Trivia.jpg)<br/>
  
  **Image 4**
- ![alt tag](https://github.com/juancr5/Android-Trivia-Fragment/blob/main/images/04%20Android%20Trivia.jpg)<br/>
+ ![alt tag]()<br/>
