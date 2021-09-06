@@ -20,13 +20,17 @@ students haven't yet learned about saving data or the Android lifecycle, the app
 tries to eliminate bugs caused by configuration changes.
 
  **Image 1**
+ ------------
  ![alt tag](https://github.com/juancr5/Android-Trivia-Fragment/blob/main/images/01%20Android%20Trivia.jpg)<br/>
  
  **Image 2**
+ ------------
  ![alt tag](https://github.com/juancr5/Android-Trivia-Fragment/blob/main/images/02%20Android%20Trivia.jpg)<br/>
  
  **Image 3**
+ ------------
  ![alt tag](https://github.com/juancr5/Android-Trivia-Fragment/blob/main/images/03%20Android%20Trivia.jpg)<br/>
  
  **Image 4**
+ ------------
  ![alt tag](https://github.com/juancr5/Android-Trivia-Fragment/blob/main/images/04%20Android%20Trivia.jpg)<br/>
